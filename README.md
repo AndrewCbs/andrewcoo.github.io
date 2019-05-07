@@ -7,14 +7,9 @@ Enjoy!
 The source is very easy and lightweight to read. 
 
 ```markdown
-[..]
+Changelogs of code:
 
-# Changelog
-## Changelog
-### Changelog
-
-
-
+# Changelog of code can be found at: https://andrewcbs.github.io/changelog/
 
 
 ### Support or Contact
